@@ -9,4 +9,4 @@ Command S: para guardar las notas o codigos de los ficheros
 ls -l: para listar los ficheros de una carpeta en un terminal 
 git add, git commit and git push van siempre en esta orden 
 Siempre tiene que subir si anadir una linea despues de ya tener subido para sincronizar con la web (repositorio): de nuevoooo git add, git commit and git push!
-
+ctr c: cancelar un comando
