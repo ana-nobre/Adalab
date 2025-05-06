@@ -1,0 +1,9 @@
+git clone (url-repository): para clonar desde la nuven a mi maquina
+git status: para ver el estado de los ficheros (cambios)
+git add . : para añadir todos los ficheros al siguiente commit (un work in progress, tarea o una porcion de trabajo)
+git commit -m "mensaje del commit": para crear un commit y poner un mensaje (para que la gente sepa lo que estoy subiendo)
+git push: para subir los commits al repositorio
+git pull: para descargar los commits a mi maquina
+Para sincronizar macbook de Pedro y iMac de Ana hay que clonar (una primera vez para cada repositorio) y hacer git pull siempre cuando haya cambios
+Command S: para guardar las notas o codigos de los ficheros 
+ls -l: para listar los ficheros de una carpeta en un terminal 
